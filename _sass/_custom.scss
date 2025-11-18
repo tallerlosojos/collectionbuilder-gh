@@ -100,3 +100,19 @@ h2#item-title{
 .leaflet-popup-content p{
   line-height: 1.3rem;
 }
+.btn-secondary {
+  color: #fff;
+  background-color: blue;
+  border-color: blue;
+}
+
+.btn-outline-primary {
+  color: blue;
+  border-color: blue;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: blue;
+  border-color: blue;
+}
