@@ -53,3 +53,10 @@ footer{
 #item-table{
   padding: 2rem 0;
 }
+.title{
+  display: none;
+}
+
+.page-item.active .page-link{
+  color: blue !important;
+}
