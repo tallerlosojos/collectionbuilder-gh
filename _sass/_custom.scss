@@ -54,7 +54,7 @@ footer{
   padding: 2rem 0;
 }
 .title{
-  display: none;
+  display: none !important;
 }
 .about-nav{
   width: 100% !important;
@@ -72,7 +72,9 @@ footer{
 #about-contents p{
   margin: 0 0 1rem 0 !important;
 }
-
+.breadcrumb{
+  display: none;
+}
 .page-item.active .page-link{
   color: blue !important;
 }
