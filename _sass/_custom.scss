@@ -117,7 +117,9 @@ h2#item-title{
     font-weight: bolder;
   }
 }
-
+.leaflet-fusesearch-control {
+  display: none;
+}
 .btn-secondary, .btn-outline-primary:hover {
   color: #fff !important;
   background-color: blue !important;
