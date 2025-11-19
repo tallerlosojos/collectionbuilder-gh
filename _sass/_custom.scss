@@ -78,7 +78,10 @@ h2#item-title{
   border-top: 0;
   margin: 2rem 0 !important;
 }
-
+.about-contents > h2 {
+  padding-top: 30px;
+  border-top: none;
+}
 #about-contents p{
   margin: 0 0 1rem 0 !important;
 }
